@@ -1,7 +1,7 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ben Adeyemi</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate intermediate frontend developer from Nigeria. 😄
+
+I love building things with code, especially a website. It all started when i was designing a WordPress website that needed basic CSS stylings. Now, I am learning how to create websites to get a job as a Junior Frontend Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fedevben&label=Profile%20views&color=0e75b6&style=flat" alt="fedevben" /> </p>
 
